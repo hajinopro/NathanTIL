@@ -11,6 +11,7 @@
 		D8B4E84B26DA75D300B5FB12 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B4E84A26DA75D300B5FB12 /* ContentView.swift */; };
 		D8B4E84D26DA75D400B5FB12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8B4E84C26DA75D400B5FB12 /* Assets.xcassets */; };
 		D8B4E85026DA75D400B5FB12 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8B4E84F26DA75D400B5FB12 /* Preview Assets.xcassets */; };
+		D8B4E85826DA798F00B5FB12 /* AddThingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8B4E85726DA798F00B5FB12 /* AddThingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		D8B4E84C26DA75D400B5FB12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8B4E84F26DA75D400B5FB12 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D8B4E85126DA75D400B5FB12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8B4E85726DA798F00B5FB12 /* AddThingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddThingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				D8B4E84826DA75D300B5FB12 /* NathanTILApp.swift */,
 				D8B4E84A26DA75D300B5FB12 /* ContentView.swift */,
+				D8B4E85726DA798F00B5FB12 /* AddThingsView.swift */,
 				D8B4E84C26DA75D400B5FB12 /* Assets.xcassets */,
 				D8B4E85126DA75D400B5FB12 /* Info.plist */,
 				D8B4E84E26DA75D400B5FB12 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				D8B4E84B26DA75D300B5FB12 /* ContentView.swift in Sources */,
 				D8B4E84926DA75D300B5FB12 /* NathanTILApp.swift in Sources */,
+				D8B4E85826DA798F00B5FB12 /* AddThingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
